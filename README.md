@@ -41,24 +41,14 @@ I am Pramit De, a final-year Computer Science student with hands-on experience i
 ### Technical Skills
 
 - **Programming Languages & Tools:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 - **Python Libraries:**  
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-  ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-  ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-23282D?style=flat&logo=beautifulsoup&logoColor=white)  
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)  
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-9C8D61?style=flat&logo=seaborn&logoColor=white)  
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-23282D?style=flat&logo=beautifulsoup&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-9C8D61?style=flat&logo=seaborn&logoColor=white)
 
 - **Databases:**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 
 - **Core Concepts:**  
   Data Wrangling ,EDA, Statistical Modeling, Machine Learning, Deep Learning  
