@@ -15,22 +15,21 @@ My journey into data science began with uncovering hidden patterns through EDA, 
 
 ## Projects
 
-### Food Ingredient Classification with MobileNetV2
-- **Goal:** Develop a lightweight deep learning model for food ingredient classification.  
-- **Why:** Automate ingredient recognition for recipes and inventory management in the food industry.  
-- **Outcome:** Built a MobileNetV2-based CNN with transfer learning, achieving 93.14% test accuracy with hyperparameter optimization using Keras Tuner.  
+### Food Ingredient Classification
+- Developed a MobileNetV2-based model with transfer learning to classify food ingredients for recipe automation and inventory management. 
+- Achieved 93.14% test accuracy through hyperparameter optimization using Keras Tuner.
 - **[GitHub Repository](https://github.com/Pramit726/MobileNetV2-FoodClassifier)**
 
-### COMPREHIVE – Interactive Comprehension Exercise Web App
-- **Goal:** Create an interactive web app for generating high-quality comprehension exercises.  
-- **Why:** Enable educators and learners to create customizable comprehension exercises easily.  
-- **Outcome:** Developed a Streamlit app using Google GEMINI 1.5 Pro API, reducing errors with a review-generation chain and deployed on AWS EC2 for a fast, responsive user experience.  
+### COMPREHIVE – Interactive Comprehension App
+- Built a Streamlit app using Google GEMINI 1.5 Pro API to generate customizable comprehension exercises.
+- Implemented a review-generation chain to ensure high-quality outputs.
+- Deployed on AWS EC2 with 20-second average response time for optimized user experience.
 - **[GitHub Repository](https://github.com/Pramit726/CompreHive)**
 
-### RasoiGuru - Human-like Cooking Assistant Chatbot
-- **Goal:** Design a chatbot to recommend recipes based on ingredients and preferences.  
-- **Why:** Provide personalized cooking assistance for both home cooks and professional chefs.  
-- **Outcome:** Developed a Retrieval-Augmented Generation (RAG) model using cookbooks and Wikipedia data, deployed as a FastAPI app on AWS EC2 with optimizations for faster response times and better memory management.  
+### RasoiGuru – Human-like Cooking Assistant Chatbot
+- Designed a chatbot to recommend recipes based on ingredients and preferences, providing personalized cooking assistance.
+- Used a Retrieval-Augmented Generation (RAG) model using cookbooks and Wikipedia data.
+- Deployed as a FastAPI app on AWS EC2 with optimizations for faster response times and efficient memory management.
 - **[GitHub Repository](https://github.com/Pramit726/RasoiGuru)**
 
 ---
@@ -64,8 +63,8 @@ My journey into data science began with uncovering hidden patterns through EDA, 
 
 I’m currently expanding my knowledge in:
 
-- **MLOps:** Streamlining model deployment, monitoring, and CI/CD pipelines to enhance model lifecycle management and operational efficiency.
-- **Big Data Machine Learning:** Utilizing tools like Hadoop and Spark to apply machine learning algorithms to large-scale datasets for distributed computing.
+- **MLOps:** To improve model deployment, monitoring, and CI/CD for efficient model management in production.
+- **Big Data Machine Learning:** To apply machine learning to large-scale datasets, enabling distributed computing and faster insights.
 
 ---
 
