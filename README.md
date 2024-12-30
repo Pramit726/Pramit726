@@ -6,10 +6,9 @@
 
 ## Hi there 👋
 
-I am Pramit De, a final-year Computer Science student with hands-on experience in Data Analysis, Machine Learning, and deploying AI applications through personal projects and internships.
+I am Pramit De, a final-year Computer Science student passionate about Data Analysis, Machine Learning, and deploying AI applications.
 
-
-**Interest:** My journey into data science started with a fascinating example of EDA revealing hidden patterns, like identifying a hurricane from New York taxi data. This ignited my curiosity, and since then, I’ve been refining my skills through practical projects and internships. I am now focused on solving complex, business-oriented challenges using data science.
+My journey into data science began with uncovering hidden patterns through EDA, like detecting a hurricane from New York taxi data. This curiosity drives me to solve real-world, business-focused problems through practical projects and internships.
 
 
 ---
