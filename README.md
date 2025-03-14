@@ -13,27 +13,6 @@ My journey into data science began with uncovering hidden patterns through EDA, 
 
 ---
 
-## Projects
-
-### Food Ingredient Classification
-- Developed a MobileNetV2-based model with transfer learning to classify food ingredients for recipe automation and inventory management. 
-- Achieved 93.14% test accuracy through hyperparameter optimization using Keras Tuner.
-- **[GitHub Repository](https://github.com/Pramit726/MobileNetV2-FoodClassifier)**
-
-### COMPREHIVE – Interactive Comprehension App
-- Built a Streamlit app using Google GEMINI 1.5 Pro API to generate customizable comprehension exercises.
-- Implemented a review-generation chain to ensure high-quality outputs.
-- Deployed on AWS EC2 with 20-second average response time for optimized user experience.
-- **[GitHub Repository](https://github.com/Pramit726/CompreHive)**
-
-### RasoiGuru – Human-like Cooking Assistant Chatbot
-- Designed a chatbot to recommend recipes based on ingredients and preferences, providing personalized cooking assistance.
-- Used a Retrieval-Augmented Generation (RAG) model using cookbooks and Wikipedia data.
-- Deployed as a FastAPI app on AWS EC2 with optimizations for faster response times and efficient memory management.
-- **[GitHub Repository](https://github.com/Pramit726/RasoiGuru)**
-
----
-
 ## Skills
 
 ### Technical Skills
