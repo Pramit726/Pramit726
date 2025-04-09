@@ -15,26 +15,34 @@ My journey into data science began with uncovering hidden patterns through EDA, 
 
 ## Skills
 
-### Technical Skills
+## Technical Skills
 
-- **Programming Languages & Tools:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+- **Machine Learning & Data Science:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194D1?style=flat&logo=mlflow&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-- **Python Libraries:**  
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-23282D?style=flat&logo=beautifulsoup&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-9C8D61?style=flat&logo=seaborn&logoColor=white)
+  - Data Wrangling  
+  - Statistical Modeling  
+  - Machine Learning  
+  - Deep Learning  
+
+- **Software Development & Automation:**  
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+- **Cloud & DevOps:**  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=flat&logo=github-actions&logoColor=white)
 
 - **Databases:**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+---
 
+## Soft Skills
 
-- **Core Concepts:**  
-  Data Wrangling ,EDA, Statistical Modeling, Machine Learning, Deep Learning  
+- Analytical Thinking  
+- Business-Oriented Mindset  
+- Communication  
+- Adaptability  
+- Collaboration
 
-### Soft Skills
-- Business-oriented  
-- Team player  
-- Problem-solving  
-- Strong communication skills  
 
 ---
 
